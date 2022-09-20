@@ -1,0 +1,16 @@
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  background-color: #ecf2f8;
+}
+/*# sourceMappingURL=App.css.map */
